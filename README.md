@@ -1,7 +1,9 @@
 # RedBookSkills
 
+2026.7.17 更新了skill和提交策略，大模型可以根据提供的图片自动生成标题和正文等信息并发布。
 
 在此感谢原贴的工程师们，欢迎大家去star原帖。链接：https://github.com/white0dew/XiaohongshuSkills
+
 此仓库仅作分享，侵权随时联系删除
 
 自动发布内容到小红书（Xiaohongshu/RED）的命令行工具，也支持仅启动测试浏览器（不发布）。
